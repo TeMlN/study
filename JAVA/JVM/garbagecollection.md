@@ -14,6 +14,7 @@
     - 오래된 객체에서 새로운 객체로의 참조는 흔하지 않다.
 
 ### Structure
+![이해를 위한 heap memory 이미지](/study/image/java-heap-memory.png)
 
 - Minor Gc - (Young 영역에서 발생하는 Garbage Collection)
     - 실행 속도는 Major Gc에 비해 상대적으로 빠른편으로 애플리케이션에 크게 영향을 주지 않는다.
